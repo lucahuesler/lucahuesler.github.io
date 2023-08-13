@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.landing-page {
+    background-image: url('assets/DSC00912.JPG');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links a {
+    margin: 0 15px;
+    font-size: 24px;
+    color: white; /* or any color you prefer */
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: #0077b5; /* LinkedIn blue for hover effect, change as needed */
+}
