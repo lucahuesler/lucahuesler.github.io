@@ -1,8 +1,13 @@
+
 ---
 layout: default
 ---
 
-# Welcome to My Personal Website
-
-Hello! I'm Luca Huesler. This is my personal space on the web where I share my projects, thoughts, and experiences.
-
+<div class="landing-page">
+    <img src="assets/DSC00912.JPG" alt="Background" class="animated-image">
+    
+    <div class="social-links">
+        <a href="https://github.com/lucahuesler" target="_blank" class="github"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/lucahuesler/" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
+    </div>
+</div>
